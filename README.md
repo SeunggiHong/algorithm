@@ -7,3 +7,4 @@
 
 ## 문제
 - [1000.py](https://github.com/seunggihong/Algorithm/tree/main/script/1000.py)
+- [1001.py](https://github.com/seunggihong/Algorithm/tree/main/script/1001.py)
