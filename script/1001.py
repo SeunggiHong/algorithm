@@ -1,0 +1,1 @@
+print(eval('+0-'.join(input())))
