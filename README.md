@@ -3,12 +3,7 @@
 
 
 # 알고리즘 해결 모음
-### [🔥My Profile](https://www.acmicpc.net/user/hsk1321)
+### [🔥My Profile](https://www.acmicpc.net/user/hardcoder)
 
 ## 문제
-- [1000.py](https://github.com/seunggihong/Algorithm/tree/main/script/1000.py)
-- [1001.py](https://github.com/seunggihong/Algorithm/tree/main/script/1001.py)
-- [1158.py](https://github.com/seunggihong/Algorithm/tree/main/script/1158.py)
-- [27866.py](https://github.com/seunggihong/Algorithm/tree/main/script/27866.py)
-- [15829.py](https://github.com/seunggihong/Algorithm/tree/main/script/15829.py)
-- [10810.py](https://github.com/seunggihong/Algorithm/tree/main/script/10810.py)
+
