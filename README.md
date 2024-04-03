@@ -7,3 +7,4 @@
 
 ## 문제
 
+- [2557.py](https://github.com/seunggihong/Algorithm/tree/main/script/2557.py)
