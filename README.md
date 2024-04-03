@@ -11,3 +11,4 @@
 - [1158.py](https://github.com/seunggihong/Algorithm/tree/main/script/1158.py)
 - [27866.py](https://github.com/seunggihong/Algorithm/tree/main/script/27866.py)
 - [15829.py](https://github.com/seunggihong/Algorithm/tree/main/script/15829.py)
+- [10810.py](https://github.com/seunggihong/Algorithm/tree/main/script/10810.py)
