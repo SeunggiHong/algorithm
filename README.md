@@ -6,8 +6,3 @@
 ### [🔥My Profile](https://www.acmicpc.net/user/hardcoder)
 
 ## 문제
-
-- [2557.py](https://github.com/seunggihong/Algorithm/tree/main/script/2557.py)
-- [10998.py](https://github.com/seunggihong/Algorithm/tree/main/script/10998.py)
-- [1000.py](https://github.com/seunggihong/Algorithm/tree/main/script/1000.py)
-- [1001.py](https://github.com/seunggihong/Algorithm/tree/main/script/1001.py)
