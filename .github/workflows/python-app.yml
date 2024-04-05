@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run Python script to update README
-        run: python utils/auto_readme.py
+        run: python utils/auto_test.py
 
       - name: Commit changes to README
         run: |
