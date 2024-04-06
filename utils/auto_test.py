@@ -8,7 +8,6 @@ def append_to_readme(file_path, new_content):
     insertion_index = 7 
     lines = lines[:insertion_index + 1]
 
-    # 새로운 내용 추가
     lines.extend(new_content)
 
     with open(file_path, 'w', encoding='utf-8') as file:
