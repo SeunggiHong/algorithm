@@ -6,16 +6,19 @@
 ### [🔥My Profile](https://www.acmicpc.net/user/hardcoder)
 
 ## 문제
-### 해결한 수 : `53`
+### 해결한 수 : `61`
 
 * [1000](https://github.com/seunggihong/Algorithm/tree/main/script/1000.py)
 * [1001](https://github.com/seunggihong/Algorithm/tree/main/script/1001.py)
 * [1008](https://github.com/seunggihong/Algorithm/tree/main/script/1008.py)
 * [1152](https://github.com/seunggihong/Algorithm/tree/main/script/1152.py)
+* [1157](https://github.com/seunggihong/Algorithm/tree/main/script/1157.py)
+* [1316](https://github.com/seunggihong/Algorithm/tree/main/script/1316.py)
 * [1330](https://github.com/seunggihong/Algorithm/tree/main/script/1330.py)
 * [1546](https://github.com/seunggihong/Algorithm/tree/main/script/1546.py)
 * [2438](https://github.com/seunggihong/Algorithm/tree/main/script/2438.py)
 * [2439](https://github.com/seunggihong/Algorithm/tree/main/script/2439.py)
+* [2444](https://github.com/seunggihong/Algorithm/tree/main/script/2444.py)
 * [2480](https://github.com/seunggihong/Algorithm/tree/main/script/2480.py)
 * [2525](https://github.com/seunggihong/Algorithm/tree/main/script/2525.py)
 * [2557](https://github.com/seunggihong/Algorithm/tree/main/script/2557.py)
@@ -27,6 +30,8 @@
 * [2753](https://github.com/seunggihong/Algorithm/tree/main/script/2753.py)
 * [2884](https://github.com/seunggihong/Algorithm/tree/main/script/2884.py)
 * [2908](https://github.com/seunggihong/Algorithm/tree/main/script/2908.py)
+* [2941](https://github.com/seunggihong/Algorithm/tree/main/script/2941.py)
+* [3003](https://github.com/seunggihong/Algorithm/tree/main/script/3003.py)
 * [3052](https://github.com/seunggihong/Algorithm/tree/main/script/3052.py)
 * [5597](https://github.com/seunggihong/Algorithm/tree/main/script/5597.py)
 * [5622](https://github.com/seunggihong/Algorithm/tree/main/script/5622.py)
@@ -48,6 +53,7 @@
 * [10950](https://github.com/seunggihong/Algorithm/tree/main/script/10950.py)
 * [10951](https://github.com/seunggihong/Algorithm/tree/main/script/10951.py)
 * [10952](https://github.com/seunggihong/Algorithm/tree/main/script/10952.py)
+* [10988](https://github.com/seunggihong/Algorithm/tree/main/script/10988.py)
 * [10998](https://github.com/seunggihong/Algorithm/tree/main/script/10998.py)
 * [11021](https://github.com/seunggihong/Algorithm/tree/main/script/11021.py)
 * [11022](https://github.com/seunggihong/Algorithm/tree/main/script/11022.py)
@@ -58,6 +64,8 @@
 * [14681](https://github.com/seunggihong/Algorithm/tree/main/script/14681.py)
 * [15552](https://github.com/seunggihong/Algorithm/tree/main/script/15552.py)
 * [18108](https://github.com/seunggihong/Algorithm/tree/main/script/18108.py)
+* [25083](https://github.com/seunggihong/Algorithm/tree/main/script/25083.py)
+* [25206](https://github.com/seunggihong/Algorithm/tree/main/script/25206.py)
 * [25304](https://github.com/seunggihong/Algorithm/tree/main/script/25304.py)
 * [25314](https://github.com/seunggihong/Algorithm/tree/main/script/25314.py)
 * [27866](https://github.com/seunggihong/Algorithm/tree/main/script/27866.py)
