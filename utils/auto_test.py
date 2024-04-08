@@ -20,7 +20,7 @@ def load_file_name():
     arr = sorted(arr)
     text_list = ["### 해결한 수 : `" + str(len(arr)) + "`\n", "\n"]
     for name in arr:
-        text_list.append("* [{}](https://github.com/seunggihong/Algorithm/tree/main/script/{}.py)\n".format(name, name))
+        text_list.append("[{}](https://github.com/seunggihong/Algorithm/tree/main/script/{}.py) ".format(name, name))
     return text_list
 
 if __name__ == '__main__':
