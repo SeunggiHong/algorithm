@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+a_arr = set(map(int, input().split()))
+b_arr = set(map(int, input().split()))
+minus = len(sorted(list(a_arr&b_arr)))
+print(a-minus + b-minus)
