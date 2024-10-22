@@ -5,7 +5,7 @@ name: Python application
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ['main']
 
 jobs:
   update_readme:
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Run Python script to update README
-        run: python utils/auto_test.py
+        run: python utils/readme_changer.py
 
       - name: Commit changes to README
         run: |

@@ -1,5 +1,4 @@
 import os
-import re
 
 scripts = os.listdir('../script/')
 
